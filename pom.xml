@@ -5,6 +5,9 @@
   <groupId>sonar_test</groupId>
   <artifactId>com.sonar.maven</artifactId>
   <version>0.0.3-SNAPSHOT</version>
+	 <!-- 1.0 -->
+	
+
   <packaging>jar</packaging>
 
   <name>com.sonar.maven</name>
